@@ -1,16 +1,17 @@
-# Fresh project
+# tauri-term
 
-Your new Fresh project is ready to go. You can follow the Fresh "Getting
-Started" guide here: https://fresh.deno.dev/docs/getting-started
+Simple terminal emulator built on [Tauri](https://tauri.app/) and [Fresh](https://fresh.deno.dev/).
 
-### Usage
+It is explained in the [article](https://zenn.dev/articles/cc6efc8eec1ea9).
 
-Make sure to install Deno: https://deno.land/manual/getting_started/installation
+# Usage
 
-Then start the project:
+## Prerequisites
+
+See the article mentioned above.
+
+## Run an app
 
 ```
-deno task start
+$ cargo tauri dev
 ```
-
-This will watch the project directory and restart as necessary.
