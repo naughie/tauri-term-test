@@ -2,7 +2,7 @@
 
 Simple terminal emulator built on [Tauri](https://tauri.app/) and [Fresh](https://fresh.deno.dev/).
 
-It is explained in the [article](https://zenn.dev/articles/cc6efc8eec1ea9).
+It is explained in the [article](https://zenn.dev/naughie/articles/cc6efc8eec1ea9).
 
 Note that this app is practically useless; do not use it for any purpose except for learning.
 
