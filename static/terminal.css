@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "source-han-code-jp";
+    src: url("/fonts/SourceHanCodeJP-Regular.otf") format("opentype");
+}
+
+body {
+  margin: 0 0 0 0;
+}
+
+.terminal {
+  padding: 1rem .6rem 1rem .6rem;
+
+  font-family: "source-han-code-jp";
+  font-style: normal;
+
+  word-break: break-all;
+
+  height: 100%;
+
+  color: #d3c6aa;
+  background-color: #333c43;
+
+  overflow-y: auto;
+}
+
+textarea {
+  font-family: "source-han-code-jp";
+  font-style: normal;
+
+  color: #d3c6aa;
+  background-color: #333c43;
+  resize: none;
+}
